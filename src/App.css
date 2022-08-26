@@ -5,7 +5,7 @@
    */
 
   --chinese-violet_30: hsla(304, 14%, 46%, 0.3);
-  --chinese-violet: hsl(240, 14%, 46%);
+  --chinese-violet: hsla(195, 78%, 32%, 0.959);
   --sonic-silver: hsl(208, 7%, 46%);
   --old-rose_30: hsla(357, 37%, 62%, 0.3);
   --ghost-white: hsl(233, 33%, 95%);
