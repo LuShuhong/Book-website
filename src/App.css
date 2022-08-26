@@ -5,16 +5,17 @@
    */
 
   --chinese-violet_30: hsla(304, 14%, 46%, 0.3);
-  --chinese-violet: hsl(304, 14%, 46%);
+  --chinese-violet: hsl(240, 14%, 46%);
   --sonic-silver: hsl(208, 7%, 46%);
   --old-rose_30: hsla(357, 37%, 62%, 0.3);
   --ghost-white: hsl(233, 33%, 95%);
-  --light-pink: hsl(357, 93%, 84%);
+  --light-pink: hsl(197, 39%, 64%);
   --light-gray: hsl(0, 0%, 80%);
-  --old-rose: hsl(357, 37%, 62%);
-  --seashell: hsl(20, 43%, 93%);
+  --old-rose: #424245;
+  --seashell: hsla(194, 39%, 74%, 0.959);
   --charcoal: hsl(203, 30%, 26%);
-  --white: hsl(0, 0%, 100%);
+  --white: hsla(38, 12%, 87%, 0.733);
+  
 
   /**
    * typography
@@ -188,7 +189,7 @@ body {
 
 .h3 { font-size: var(--fs-5); }
 
-.section-text { font-size: var(--fs-7); }
+.section-text { font-size: var(--fs-5); }
 
 .w-100 { width: 100%; }
 
@@ -288,6 +289,7 @@ body {
 
 .header {
   background-color: var(--white);
+  border-radius:50px;
   position: absolute;
   top: 10px;
   right: 10px;

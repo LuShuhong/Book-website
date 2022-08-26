@@ -6,7 +6,7 @@
 
   This is a fully responsive e-book website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="bookslover.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
